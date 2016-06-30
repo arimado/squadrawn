@@ -1,6 +1,12 @@
 == README
 
-We go hard on that paint.
+Squadrawn lets you create and design t-shirts with friends in realtime.
 
-Bugs:
-- When there are no designs after a db:seed there is a cannot read error in the designs view
+http://squadrawn.herokuapp.com/
+
+Walk through instructions
+
+1. Sign in via email
+2. Create design
+3. Save design
+4. Test with other user

@@ -8,7 +8,7 @@ app.MembersView = Backbone.View.extend({
 
 
         if (users.length > 0) {
-
+            
             var getUserFromString = function ( member ) {
                 var uPos = member.indexOf('u');
                 var userId = member.slice(uPos + 1, member.length);
